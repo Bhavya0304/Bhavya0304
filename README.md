@@ -23,5 +23,5 @@
 <p><a href="https://www.buymeacoffee.com/bhavya0304"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bhavya0304" /></a></p><br><br><hr>
 <div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavya0304&show_icons=true&locale=en" alt="bhavya0304" /> <br> <hr>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavya0304&show_icons=true&theme=dracula&locale=en&layout=compact" alt="bhavya0304" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavya0304&show_icons=true&theme=radical&locale=en&layout=compact" alt="bhavya0304" /></p>
 </div>
