@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joshi Bhavya</h1>
 <h3 align="center">A passionate CSE guy from India</h3>
 
-- 🌱 I’m currently learning **Block chain, In depth JavaScript**
+- 🌱 I’m currently learning **In depth JavaScript**
 
 - 💬 Ask me about **JavaScript, Web development, C/C++, Python**
 
