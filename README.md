@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript, Web development, C/C++, Python**
 
-- 📫 How to reach me **kingbhavya03042002@gmail.com**
+- 📫 How to reach me **jshi.bhavya@gmail.com**
 
 - ⚡ Fun fact **I think I am already married to computers**
 
