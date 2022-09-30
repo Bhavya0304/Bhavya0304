@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jshi.bhavya@gmail.com**
 
-- ⚡ Fun fact **I think I am already married to computers**
+- ⚡ Fun fact **Last time when I shutdown my laptop I was riding a Dinosaur**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
