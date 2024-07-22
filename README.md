@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Joshi Bhavya</h1>
 <h3 align="center">A passionate CSE guy from India</h3>
 
-- 🌱 I’m currently learning **In depth JavaScript**
+- 🌱 I’m currently learning **Neural Networks**
 
-- 💬 Ask me about **JavaScript, Web development, C/C++, Python**
+- 💬 Ask me about **JavaScript, C/C++, Python**
 
 - 📫 How to reach me **jshi.bhavya@gmail.com**
 
-- ⚡ Fun fact : **Maybe Last time when I shutdown my laptop I was riding a Dinosaur**
+- ⚡ Fun fact : **I guess ChatGPT copied from A book my teacher uses I got 100% plagiarism**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
