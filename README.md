@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jshi.bhavya@gmail.com**
 
-- ⚡ Fun fact : **I guess ChatGPT copied from A book my teacher uses I got 100% plagiarism**
+- ⚡ Fun fact : **I guess ChatGPT was trained from A book my teacher uses I got 100% plagiarism**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
