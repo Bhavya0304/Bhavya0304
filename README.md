@@ -4,7 +4,7 @@
 I'm a passionate software developer with a keen interest in Neural Networks. I love learning new technologies and applying them to solve real-world problems.
 
 - 🌱 I’m currently learning **Neural Networks**
-- 💬 Ask me about **JavaScript, C/C++, Python**
+- 💬 Ask me about **Python, Nerdy Tech Talks, Maths**
 - 📫 How to reach me **jshi.bhavya@gmail.com**
 - ⚡ Fun fact: **I guess ChatGPT was trained from A book my teacher uses I got 100% plagiarism**
 
@@ -21,9 +21,10 @@ Here are some of the technologies and tools I work with:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/your_discord_id)
-[![Resume](https://img.shields.io/badge/-Resume-FF5722?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://your-resume-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyajsh/)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/bhavya03043864)
+[![Resume](https://img.shields.io/badge/-Resume-FF5722?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://myresume-uploads.s3-eu-north-1.amazonaws.com/prod/bhavya0304/MyResume.pdf)
+[![Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://bhavyajsh.onrender.com/bhavya0304)
 
 ## GitHub Stats
 ![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavya0304&show_icons=true&theme=radical)
