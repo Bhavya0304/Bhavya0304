@@ -28,7 +28,7 @@ Here are some of the technologies and tools I work with:
 
 ## Top Repositories
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Bhavya0304&repo=Football-Analysis&theme=radical)](https://github.com/Bhavya0304/Football-Analysis)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Bhavya0304&repo=MineOS&theme=radical)](https://github.com/Bhavya0304/MineOS)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Bhavya0304&repo=SnakeAI&theme=radical)](https://github.com/Bhavya0304/SnakeAI)
 
 
 ## GitHub Stats
