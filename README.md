@@ -20,7 +20,7 @@ Here are some of the technologies and tools I work with:
 ![Azure Cloud](https://img.shields.io/badge/-Azure%20Cloud-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Doomed By AI
+## Darwin Discord Server
 🌟 You're Invited to Join Our Nerdy Haven! 🎉🤖
 Hello Everyone! 🌌✨
 Let’s make this server a place where you can drop by whenever you feel dommed—whether by AI or humans. This is a space for geeks and nerds who are introverted physically but extroverted digitally. 💻🌐
@@ -29,7 +29,7 @@ If you don’t have a group of friends to share your nerdy knowledge with or wan
 
 Written by Heart, not by LLMs ❤️✨
 
-👉 [Click here to join our server!](https://discord.gg/nPjGG6F2) 👈
+👉 ![Click here to join our server!](https://discord.com/invite/UmxCDqdPhn) 👈
 We can’t wait to welcome you! 🎊
 
 ## Connect with Me
