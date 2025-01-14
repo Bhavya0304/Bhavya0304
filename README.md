@@ -20,6 +20,18 @@ Here are some of the technologies and tools I work with:
 ![Azure Cloud](https://img.shields.io/badge/-Azure%20Cloud-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
+## Doomed By AI
+🌟 You're Invited to Join Our Nerdy Haven! 🎉🤖
+Hello Everyone! 🌌✨
+Let’s make this server a place where you can drop by whenever you feel dommed—whether by AI or humans. This is a space for geeks and nerds who are introverted physically but extroverted digitally. 💻🌐
+Here, we dive into AI, ML, Computer Science, Physics, Maths—everything that fuels a nerd's soul! 🧠💡 Let's talk, share, and explore all the fascinating topics that make our minds tick. 🚀📚
+If you don’t have a group of friends to share your nerdy knowledge with or want to gain some fresh insights, this is the perfect place for you. 🤝🔗
+
+Written by Heart, not by LLMs ❤️✨
+
+👉 [Click here to join our server!](https://discord.gg/nPjGG6F2) 👈
+We can’t wait to welcome you! 🎊
+
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyajsh/)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/bhavya03043864)
