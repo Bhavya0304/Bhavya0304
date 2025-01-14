@@ -29,7 +29,7 @@ If you don’t have a group of friends to share your nerdy knowledge with or wan
 
 Written by Heart, not by LLMs ❤️✨
 
-👉 ![Click here to join our server!](https://discord.com/invite/UmxCDqdPhn) 👈
+👉 [Click here to join our server!](https://discord.com/invite/UmxCDqdPhn) 👈
 We can’t wait to welcome you! 🎊
 
 ## Connect with Me
