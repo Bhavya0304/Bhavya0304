@@ -36,7 +36,7 @@ We can’t wait to welcome you! 🎊
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyajsh/)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com/users/bhavya03043864)
 [![Resume](https://img.shields.io/badge/-Resume-FF5722?style=flat&logo=adobe-acrobat-reader&logoColor=white)](https://myresume-uploads.s3-eu-north-1.amazonaws.com/prod/bhavya0304/MyResume.pdf)
-[![Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://bhavyajsh.onrender.com/bhavya0304)
+[![Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://bhavyajsh.onrender.com)
 
 ## Top Repositories
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Bhavya0304&repo=Football-Analysis&theme=radical)](https://github.com/Bhavya0304/Football-Analysis)
