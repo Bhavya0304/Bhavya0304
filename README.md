@@ -41,6 +41,7 @@ We can’t wait to welcome you! 🎊
 ## Top Repositories
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Bhavya0304&repo=Football-Analysis&theme=radical)](https://github.com/Bhavya0304/Football-Analysis)
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Bhavya0304&repo=SnakeAI&theme=radical)](https://github.com/Bhavya0304/SnakeAI)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Bhavya0304&repo=Emaily&theme=radical)](https://github.com/Bhavya0304/Emaily)
 
 
 ## GitHub Stats
