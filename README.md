@@ -39,9 +39,9 @@ We can’t wait to welcome you! 🎊
 [![Website](https://img.shields.io/badge/-Website-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://joshibhavya.com)
 
 ## Top Repositories
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Bhavya0304&repo=Football-Analysis&theme=radical)](https://github.com/Bhavya0304/Football-Analysis)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Bhavya0304&repo=Football-Analysis&theme=tokyonight)](https://github.com/Bhavya0304/Football-Analysis)
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Bhavya0304&repo=SnakeAI&theme=radical)](https://github.com/Bhavya0304/SnakeAI)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Bhavya0304&repo=Emaily&theme=radical)](https://github.com/Bhavya0304/Emaily)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Bhavya0304&repo=Emaily&theme=dracula)](https://github.com/Bhavya0304/Emaily)
 
 
 ## GitHub Stats
